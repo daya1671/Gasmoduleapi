@@ -1,0 +1,6 @@
+C:\Users\dayak\source\repos\GasModuleApi\Gasmodule.BLL\bin\Debug\Gasmodule.BLL.dll
+C:\Users\dayak\source\repos\GasModuleApi\Gasmodule.BLL\bin\Debug\Gasmodule.BLL.pdb
+C:\Users\dayak\source\repos\GasModuleApi\Gasmodule.BLL\obj\Debug\Gasmodule.BLL.csprojAssemblyReference.cache
+C:\Users\dayak\source\repos\GasModuleApi\Gasmodule.BLL\obj\Debug\Gasmodule.BLL.csproj.CoreCompileInputs.cache
+C:\Users\dayak\source\repos\GasModuleApi\Gasmodule.BLL\obj\Debug\Gasmodule.BLL.dll
+C:\Users\dayak\source\repos\GasModuleApi\Gasmodule.BLL\obj\Debug\Gasmodule.BLL.pdb
